@@ -47,7 +47,7 @@ Create a DataFrame that summarizes key metrics about each school, including the 
 % overall passing (the percentage of students who passed math AND reading)
 
 #Highest-Performing Schools (by % Overall Passing)
-Create a DataFrame that highlights the top-5 performing schools based on % Overall Passing. Include the following metrics:
+Create a DataFrame that highlights the top-5 performing schools based on % Overall Passing, including the following metrics:
 
 - School name
 
@@ -70,11 +70,11 @@ Create a DataFrame that highlights the top-5 performing schools based on % Overa
 % overall passing (the percentage of students who passed math AND reading)
 
 #Lowest-Performing Schools (by % Overall Passing)
-Create a DataFrame that highlights the bottom-5 performing schools based on % Overall Passing. Include the following metrics:
+Create a DataFrame that highlights the bottom-5 performing schools based on % Overall Passing, including the following metrics:
 
-- - School name
+- School name
 
-School type
+- School type
 
 - Total students
 
@@ -99,7 +99,7 @@ Create a DataFrame that lists the average math score for students of each grade 
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 #Scores by School Spending
-Create a table that breaks down school performance based on average spending ranges (per student). Use your judgment to create four bins with reasonable cutoff values to group school spending. Include the following metrics in the table:
+Create a table that breaks down school performance based on average spending ranges (per student). Use your judgment to create four bins with reasonable cutoff values to group school spending, including the following metrics in the table:
 
 - Average math score
 
