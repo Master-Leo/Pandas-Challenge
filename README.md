@@ -2,7 +2,7 @@
 
 In this assignment, I created and manipulated Pandas DataFrames to analyze school and standardized test data.
 
-The first task is to analyze the district-wide standardized test results showcase obvious trends in school performance.
+The first task is to analyze the district-wide standardized test results showcasing obvious trends in school performance.
 
 #District Summary
 Create a high-level snapshot of the district's key metrics in a DataFrame, including the following:
